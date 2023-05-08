@@ -1,0 +1,22 @@
+[
+    {
+        "expression": "2+2*2\/2",
+        "result": 4
+    },
+    {
+        "expression": "4+4-4*4\/4",
+        "result": 4
+    },
+    {
+        "expression": "2+5*9",
+        "result": 47
+    },
+    {
+        "expression": "2+5*9",
+        "result": 47
+    },
+    {
+        "expression": "2+2*2+3",
+        "result": 9
+    }
+]
